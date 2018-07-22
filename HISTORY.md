@@ -1,6 +1,15 @@
 # History
 
 
+## 2018-07-22, version 5.0.4
+
+- Strongly improved the performance of functions `factorial` for numbers.
+  This improves performance of functions `gamma`, `permutation`, and
+  `combination` too. See #1170. Thanks @honeybar.
+- Strongly improved the performance of function `reshape`, thanks to a 
+  friend of @honeybar.
+
+
 ## 2018-07-14, version 5.0.3
 
 - Fixed many functions (for example `add` and `subtract`) not working
